@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\bin\Debug\for4-1691.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\bin\Debug\for4-1691.exe
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\bin\Debug\for4-1691.pdb
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4-1691.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4-1691.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4_1691.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4_1691.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4-1691.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4-1691.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4-1691.exe
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for4-1691\for4-1691\obj\Debug\for4-1691.pdb
